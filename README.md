@@ -1,4 +1,4 @@
-# Testing-MOSSE-algorithm-on-Pacman
+# Notebook for Testing MOSSE algorithm on videos.
 
 Testing MOSSE algorithm on PACMAN game (short pacman.mp4 video).
 
